@@ -107,7 +107,7 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/Althaf_TG'),
-                    InlineKeyboardButton('sᴏᴜʀᴄᴇ', url='https://github.com/Tezzarobot/rename')
+                    InlineKeyboardButton('sᴏᴜʀᴄᴇ', url='https://github.com/Tezzarobot/rename-')
                 ]
             ]
         ),
