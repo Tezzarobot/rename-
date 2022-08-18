@@ -102,12 +102,12 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Gw_links'),
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/goodwillmovies')
+                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/gwbotschannel'),
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/gwsupport_group')
                 ],
                 [
-                    InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/Althaf_TG'),
-                    InlineKeyboardButton('sᴏᴜʀᴄᴇ', url='https://github.com/Tezzarobot/rename-')
+                    InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/Althaf_ser'),
+                    InlineKeyboardButton('sᴏᴜʀᴄᴇ', url='https://github.com/tezzarobot/rename-')
                 ]
             ]
         ),
